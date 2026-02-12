@@ -1,0 +1,13 @@
+Silver Decipherer – Origin Hash Record
+
+Originator: Lloyd W Jones Jr
+Date Created: 2026-02-12
+Hash Algorithm: SHA-256
+Hashed File: ORIGIN_BUNDLE.txt
+
+SHA-256:
+f3256dcb77e899a4559dc2a0c4774d6d3248b9e411c446a7c72027bceb79d1b6
+
+Verification:
+Download ORIGIN_BUNDLE.txt from this repository and compute SHA-256.
+The result should match the value above.
