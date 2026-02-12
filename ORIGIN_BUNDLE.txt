@@ -1,0 +1,19 @@
+Project: Silver Decipherer
+Originator: Lloyd W Jones Jr
+Initial Public Release Date: 2026-02-12
+
+Summary:
+An iOS/Android app concept to display Shanghai silver (SGE/SHFE) converted to USD/oz alongside US silver (e.g., COMEX) in USD/oz, with spread, charts, alerts, and education.
+
+Included Spec Files:
+README.md
+SPEC.md
+ARCHITECTURE.md
+ROADMAP.md
+ATTRIBUTION.md
+
+Canonical Repository:
+[PASTE YOUR REPO URL HERE]
+
+Notes:
+This file is intentionally used as the canonical “hash target” to simplify proof-of-origin workflows.
